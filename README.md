@@ -19,4 +19,4 @@
 2. composer update
 3. cp `Plugins/Framework/laravel/setting.ini` into `Plugins`
 4. Update `public/index.php` as `Plugins/Framework/laravel/Readme.md`
-5. run `./vendor/bin/yii serve 0.0.0.0`
+5. start flarum
